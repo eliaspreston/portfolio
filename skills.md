@@ -5,4 +5,4 @@
 - C#
 
 
-{% include image-gallery.html folder="/portfolio/uploads/album" %}
+{% include image-gallery.html folder="/uploads/album" %}
